@@ -50,6 +50,59 @@ These visualizations help in understanding patterns of adoption and identifying 
 
 ---
 
+## Report Structure
+
+Kotlin_Education_Landscape_Report
+
+├── 1_Abstract.md  
+├── 2_Introduction.md  
+│   ├── 2.1_Background.md  
+│   ├── 2.2_Motivation.md  
+│   └── 2.3_Problem_Statement.md  
+
+├── 3_Objectives.md  
+
+├── 4_Literature_Review.md  
+
+├── 5_Methodology  
+│   ├── 5.1_Data_Sources.md  
+│   ├── 5.2_Data_Collection.md  
+│   ├── 5.3_Data_Structuring.md  
+│   └── 5.4_Data_Cleaning_Validation.md  
+
+├── 6_Dataset_Description.md  
+
+├── 7_Data_Analysis  
+│   ├── 7.1_Descriptive_Analysis.md  
+│   ├── 7.2_Trend_Analysis.md  
+│   └── 7.3_Gap_Analysis.md  
+
+├── 8_Visualization_and_Insights  
+│   ├── 8.1_Charts.md  
+│   ├── 8.2_Dashboards.md  
+│   └── 8.3_Key_Insights.md  
+
+├── 9_Discussion.md  
+
+├── 10_Recommendations.md  
+
+├── 11_Conclusion.md  
+
+├── 12_Deliverables.md  
+
+├── 13_Reproducibility  
+│   ├── Dataset_Links.md  
+│   ├── Scripts_and_Pipelines.md  
+│   └── Resources.md  
+
+├── 14_References.md  
+
+└── 15_Appendix  
+    ├── Additional_Charts.md  
+    ├── Survey_Forms.md  
+    └── Interview_Notes.md  
+
+---
 ## Key Observations (Preliminary)
 
 - Kotlin is primarily taught in the context of Android development
