@@ -53,7 +53,7 @@ These visualizations help in understanding patterns of adoption and identifying 
 ## Report Structure
 
 Kotlin_Education_Landscape_Report
-
+```
 ├── 1_Abstract.md  
 ├── 2_Introduction.md  
 │   ├── 2.1_Background.md  
@@ -101,7 +101,7 @@ Kotlin_Education_Landscape_Report
     ├── Additional_Charts.md  
     ├── Survey_Forms.md  
     └── Interview_Notes.md  
-
+```
 ---
 ## Key Observations (Preliminary)
 
