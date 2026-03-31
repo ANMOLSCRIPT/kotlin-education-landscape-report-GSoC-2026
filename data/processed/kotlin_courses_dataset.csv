@@ -1,0 +1,31 @@
+institution,country,course_name,platform,level,category
+Harvard University,USA,CS50x Introduction to Computer Science,edX,Beginner,Software Engineering
+University of Cambridge,UK,Kotlin Essential Training,University,Beginner,Kotlin
+Stanford University,USA,Android Programming Workshop,University,Intermediate,Android
+Imperial College London,UK,Computing Practical Kotlin Module,University,Intermediate,Kotlin
+University of Chicago,USA,Full Stack Software Engineering,University,Advanced,Software Engineering
+University of Pennsylvania,USA,Android Programming with Kotlin,University,Intermediate,Android
+Columbia University,USA,Mobile App Development Android,University,Intermediate,Android
+University of Helsinki,Finland,Kotlin for Beginners,MOOC.fi,Beginner,Kotlin
+JetBrains Academy,Global,Programming in Kotlin,JetBrains,Beginner,Kotlin
+JetBrains Academy,Global,Kotlin Core Track,JetBrains,Intermediate,Kotlin
+Google Android Developers,Global,Android Kotlin Fundamentals,Google,Intermediate,Android
+Coursera (Meta),Global,Programming Fundamentals in Kotlin,Coursera,Beginner,Kotlin
+Coursera (JetBrains),Global,Kotlin for Java Developers,Coursera,Intermediate,Kotlin
+Coursera (Meta),Global,Advanced Programming in Kotlin,Coursera,Intermediate,Kotlin
+Coursera (Meta),Global,Meta Android Developer,Coursera,Beginner,Android
+Udemy,Global,Kotlin Android App Development Masterclass,Udemy,Beginner,Android
+Udemy,Global,Advanced Kotlin Programming,Udemy,Advanced,Kotlin
+Codecademy,Global,Learn Kotlin,Codecademy,Beginner,Kotlin
+Codecademy,Global,Kotlin Functions and Classes,Codecademy,Beginner,Kotlin
+Hyperskill (JetBrains),Global,Kotlin Fundamentals,Hyperskill,Beginner,Kotlin
+Hyperskill (JetBrains),Global,Kotlin Developer Track,Hyperskill,Intermediate,Kotlin
+NUS Singapore,Singapore,Mobile Systems Programming,University,Intermediate,Software Engineering
+Technical University of Munich,Germany,Modern Mobile Development,University,Advanced,Android
+University of Toronto,Canada,Android Development with Kotlin,University,Intermediate,Android
+BITS Pilani,India,App Development using Kotlin,University,Intermediate,Android
+Delhi University,India,Introduction to Kotlin,University,Beginner,Kotlin
+NSUT,India,Kotlin Android Development,University,Beginner,Android
+IIT Delhi,India,Mobile App Development with Kotlin,University,Intermediate,Android
+University of Melbourne,Australia,Mobile Computing Systems,Coursera,Advanced,Software Engineering
+ETH Zurich,Switzerland,Advanced Software Engineering,Kotlin Module,Advanced,Software Engineering
