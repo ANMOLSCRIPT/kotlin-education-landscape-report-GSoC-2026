@@ -50,6 +50,12 @@ These visualizations help in understanding patterns of adoption and identifying 
 
 ---
 
+## Data Pipeline
+
+A detailed description of the data collection and processing workflow is available in:
+
+[DATA_PIPELINE.md](./Data_Pipeline.md)
+
 ## Report Structure
 
 Kotlin_Education_Landscape_Report
